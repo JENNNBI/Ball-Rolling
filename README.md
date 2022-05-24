@@ -8,5 +8,5 @@ If player collide with the obstacle there will be consequence which is player lo
 As you can see i didn't set the score while we collecting points. Its a another time!
 
 At the end of level 1 there is a melting area that i call. Basically player's ball dissapering fast (melting). This is a simple mechanic
-i try to accomplish. You can reach me and fix the thing that i make mistake or teach better adjustment/ technic.
+i try to accomplish. You can reach me and fix the things that i made mistake or teach me for better adjustment/ technic.
 ![Ball Rolling GamePlay3](https://user-images.githubusercontent.com/87286877/170008605-65639920-d5ba-4a47-98f2-db1efd014169.png)
